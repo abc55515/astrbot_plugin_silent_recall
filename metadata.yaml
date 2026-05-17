@@ -1,0 +1,9 @@
+name: astrbot_plugin_silent_recall
+display_name: 静默撤回插件
+version: "1.0.1"
+author: abc55515
+description: 纯文本「撤回」指令，仅限插件白名单成员使用，静默撤回
+dependencies: []
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.0.0"

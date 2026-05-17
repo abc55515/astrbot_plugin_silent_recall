@@ -1,0 +1,6 @@
+{
+  "silent": true,
+  "command": "撤回",
+  "show_log": true,
+  "allowed_members": ["114514","123456"]
+}
